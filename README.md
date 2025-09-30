@@ -1,13 +1,12 @@
 # Selenium + SpecFlow (C#) Mini-Framework
 
-A tiny, production-style starter you can show in LinkedIn **Featured** and recruiters can run locally or in CI.
+A tiny, production-style starter for LinkedIn **Featured**.
 
 ## What this demonstrates
 - **C# + SpecFlow + Selenium** with Page Object pattern
 - Simple **BDD** feature
 - **Parallel**-ready test structure
 - **GitHub Actions** CI that builds and runs tests on Ubuntu
-- Clean README, LICENSE, and CONTRIBUTING for professionalism
 
 ## Quickstart
 ```bash
