@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "G2e8pOl3rTU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jason\\OneDrive\\Documents\\Work\\Code\\selenium-specflow-csharp-starter\\src\\Framework\\Framework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jason\\.nuget\\packages\\selenium.support\\4.24.0\\selenium.support.4.24.0.nupkg.sha512",
+    "C:\\Users\\Jason\\.nuget\\packages\\selenium.webdriver\\4.24.0\\selenium.webdriver.4.24.0.nupkg.sha512"
+  ],
+  "logs": []
+}

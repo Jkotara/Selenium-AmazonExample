@@ -1,0 +1,15 @@
+C:\Users\Jason\OneDrive\Documents\Work\Code\selenium-specflow-csharp-starter\src\Framework\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\Users\Jason\OneDrive\Documents\Work\Code\selenium-specflow-csharp-starter\src\Framework\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\Users\Jason\OneDrive\Documents\Work\Code\selenium-specflow-csharp-starter\src\Framework\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Jason\OneDrive\Documents\Work\Code\selenium-specflow-csharp-starter\src\Framework\bin\Debug\net8.0\Framework.deps.json
+C:\Users\Jason\OneDrive\Documents\Work\Code\selenium-specflow-csharp-starter\src\Framework\bin\Debug\net8.0\Framework.dll
+C:\Users\Jason\OneDrive\Documents\Work\Code\selenium-specflow-csharp-starter\src\Framework\bin\Debug\net8.0\Framework.pdb
+C:\Users\Jason\OneDrive\Documents\Work\Code\selenium-specflow-csharp-starter\src\Framework\obj\Debug\net8.0\Framework.csproj.AssemblyReference.cache
+C:\Users\Jason\OneDrive\Documents\Work\Code\selenium-specflow-csharp-starter\src\Framework\obj\Debug\net8.0\Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jason\OneDrive\Documents\Work\Code\selenium-specflow-csharp-starter\src\Framework\obj\Debug\net8.0\Framework.AssemblyInfoInputs.cache
+C:\Users\Jason\OneDrive\Documents\Work\Code\selenium-specflow-csharp-starter\src\Framework\obj\Debug\net8.0\Framework.AssemblyInfo.cs
+C:\Users\Jason\OneDrive\Documents\Work\Code\selenium-specflow-csharp-starter\src\Framework\obj\Debug\net8.0\Framework.csproj.CoreCompileInputs.cache
+C:\Users\Jason\OneDrive\Documents\Work\Code\selenium-specflow-csharp-starter\src\Framework\obj\Debug\net8.0\Framework.dll
+C:\Users\Jason\OneDrive\Documents\Work\Code\selenium-specflow-csharp-starter\src\Framework\obj\Debug\net8.0\refint\Framework.dll
+C:\Users\Jason\OneDrive\Documents\Work\Code\selenium-specflow-csharp-starter\src\Framework\obj\Debug\net8.0\Framework.pdb
+C:\Users\Jason\OneDrive\Documents\Work\Code\selenium-specflow-csharp-starter\src\Framework\obj\Debug\net8.0\ref\Framework.dll
